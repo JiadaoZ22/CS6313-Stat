@@ -13,9 +13,9 @@ jxz172230
         
     - (c) **Repeat (b) but with side-by-side boxplots.**
         - Figure and Summary Statistic: please see the ```Code Section P1.c```.
-        - By observine. So, location may not be the case of running time.
+        - By observing the boxplots, we could see the similarity mentioned in the previous answer. So we could conclude that runners from different places don't have an obvious difference in performance. So, location may not be the case of running time.
     - (d) **Create side-by-side boxplots for the runners’ ages (given in years) for male and female runners. What can we conclude about the two distributions? Back up your conclusions with relevant summary statistics, including mean, standard deviation, range, median, and interquartile range.**
-        - Figure and Summary Statistic: pleag the boxplots, we could see the similarity mentioned in the previous answer. So we could conclude that runners from different places don't have an obvious difference in performancse see the ```Code Section P1.d```.  
+        - Figure and Summary Statistic: please see the ```Code Section P1.d```.  
         - As we can see, generally speaking, the male runner group is a bit older than the female runner group (from median), also most of the runner are within 30-50 years old while from Q3 and Maximum we could conclude that men participants could be beyond almost 10 years older than the eldest female participants though Q1 and Minimum shows that both young men and women are all tend to participate running. Last, there are several outlier in female sets which indicates there still exist some women who are agile than most of their peers.
 
 1. **(8 points) Consider the dataset motorcycle.csv posted on eLearning. It contains the number of fatal motorcycle accidents that occurred in each county of South Car- olina during 2009. Create a boxplot of data and provide relevant summary statistics. Discuss the features of the data distribution. Identify which counties may be con- sidered outliers. Why might these counties have the highest numbers of motorcycle fatalities in South Carolina?**  
